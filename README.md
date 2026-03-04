@@ -219,7 +219,7 @@ YanTian/
 
 ## 一、项目简介
 
-**YanTian（言天）** 是一个面向全球中期天气预报（Medium-range Weather Forecasting）的 AI 大模型。该模型基于提出的 **Searth Transformer（Shifted Earth Transformer）** 架构，并结合创新的 **Relay Autoregressive (RAR)** 微调策略，实现了在较低计算资源条件下的高精度中期天气预报能力。
+**YanTian（演天）** 是一个面向全球中期天气预报（Medium-range Weather Forecasting）的 AI 大模型。该模型基于提出的 **Searth Transformer（Shifted Earth Transformer）** 架构，并结合创新的 **Relay Autoregressive (RAR)** 微调策略，实现了在较低计算资源条件下的高精度中期天气预报能力。
 
 本项目开源内容为 **推理模型（ONNX 格式）及实时推理脚本**，可用于基于实时 GFS 数据进行全球 6 小时间隔滚动预报。
 
