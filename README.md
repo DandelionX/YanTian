@@ -477,3 +477,8 @@ python run_cpu.py
 
 2、预报结果存储在predict/文件夹中，存储为一个数据矩阵，矩阵中包括1个起报时刻start_time_str和未来time_length个预报时刻的气象数据，结果矩阵维度为（time_length+1，69，180，360），索引0为起报时刻start_time_str的气象要素。
 
+模型训练:**李田野**（中国科学院大气物理研究所）等，RUMLA。
+<img width="344" height="344" alt="8d8101fcf37782ab5120fdb51ce797ad" src="https://github.com/user-attachments/assets/96a85599-af7f-43c1-89dd-f22c00d94f63" />
+
+如有问题或需要预训练权重，欢迎通过 GitHub Issues 联系。
+
